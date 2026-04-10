@@ -80,6 +80,9 @@ Informatica ecologica
 
 Dato para el Administrador: Activar los estados de ahorro de energía en la BIOS/UEFI de los servidores puede reducir el consumo en reposo hasta un 15%.
 
+![Imagen de Sostenibilidad](./markdown.jpg)
+
+
 📚 Referencias y Normativa
 
     Directiva 2012/19/UE: Sobre residuos de aparatos eléctricos y electrónicos.
