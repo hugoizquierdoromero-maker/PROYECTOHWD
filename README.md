@@ -31,6 +31,8 @@ Como futuros administradores, debemos entender que la "nube" tiene un soporte f�
    
 ![Imagen de Sostenibilidad](./ambiente.jpg)
 
+
+
 2. Gestión de Residuos Informáticos (RAEE)
 
 Los RAEE (Residuos de Aparatos Eléctricos y Electrónicos) representan un desafío crítico en el mantenimiento de sistemas.
