@@ -7,9 +7,13 @@ Este repositorio contiene el análisis técnico sobre el impacto ambiental deriv
 
 📋 Índice
 1.El Impacto Ambiental de la Digitalización
+
 2.Gestión de Residuos Informáticos (RAEE)
+
 3.Obsolescencia: Programada vs. Tecnológica
+
 4.Green Computing y Datacenters Sostenibles
+
 5.Características Avanzadas de Markdown
 
 
