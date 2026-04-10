@@ -58,6 +58,8 @@ La Informática Ecológica es nuestra principal herramienta de mitigación. Apli
 
     Free Cooling: Uso del aire exterior para refrigerar racks, reduciendo el gasto en aire acondicionado industrial.
 
+![Imagen de Sostenibilidad](./green.jpg)
+
 🚀 5. Características Avanzadas de Markdown
 
 1. Alertas de GitHub (Admonitions)
