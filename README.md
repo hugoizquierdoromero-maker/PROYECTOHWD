@@ -39,6 +39,7 @@ Los RAEE (Residuos de Aparatos Eléctricos y Electrónicos) representan un desaf
 
     Logística Inversa: Importancia de los puntos de recogida y empresas certificadas para el tratamiento de componentes de red y servidores fuera de uso.
 
+![Imagen de Sostenibilidad](./lalala.jpeg)
 3. Obsolescencia: Programada vs. Tecnológica
 
 En ASIR, diferenciamos dos conceptos que llenan nuestros almacenes de hardware:
