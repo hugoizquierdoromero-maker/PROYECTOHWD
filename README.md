@@ -29,7 +29,7 @@ Como futuros administradores, debemos entender que la "nube" tiene un soporte f�
     Extracción de tierras raras: La fabricación de semiconductores requiere materiales como el coltán o el litio, cuya extracción tiene un alto coste ecológico y social.
 
    
-src="https://github.com/hugoizquierdoromero-maker/PROYECTOHWD/blob/main/ambiente.jpg"
+![Imagen de Sostenibilidad](./ambiente.jpg)
 
 2. Gestión de Residuos Informáticos (RAEE)
 
