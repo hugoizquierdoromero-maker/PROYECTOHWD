@@ -29,7 +29,7 @@ Como futuros administradores, debemos entender que la "nube" tiene un soporte f�
     Extracción de tierras raras: La fabricación de semiconductores requiere materiales como el coltán o el litio, cuya extracción tiene un alto coste ecológico y social.
 
    
-![Imagen de Sostenibilidad](./residuos-electricos-electronicos1.jpg)
+![Imagen de Sostenibilidad](./ambiente.jpg)
 
 2. Gestión de Residuos Informáticos (RAEE)
 
@@ -39,7 +39,7 @@ Los RAEE (Residuos de Aparatos Eléctricos y Electrónicos) representan un desaf
 
     Logística Inversa: Importancia de los puntos de recogida y empresas certificadas para el tratamiento de componentes de red y servidores fuera de uso.
 
-![Imagen de Sostenibilidad](./lalala.jpeg)
+![Imagen de Sostenibilidad](./residuos-electricos-electronicos1.jpg)
 3. Obsolescencia: Programada vs. Tecnológica
 
 En ASIR, diferenciamos dos conceptos que llenan nuestros almacenes de hardware:
