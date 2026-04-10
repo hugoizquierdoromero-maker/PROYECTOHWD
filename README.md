@@ -3,6 +3,8 @@
 🌍 Gestión de Sostenibilidad en Sistemas TI: Proyecto Informática Ambiental
 
 Este repositorio contiene el análisis técnico sobre el impacto ambiental derivado de la infraestructura de sistemas, la gestión de residuos electrónicos y las estrategias de Green IT aplicables en entornos corporativos.
+
+
 📋 Índice
 1.El Impacto Ambiental de la Digitalización
 2.Gestión de Residuos Informáticos (RAEE)
