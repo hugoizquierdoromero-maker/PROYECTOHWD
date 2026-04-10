@@ -22,7 +22,7 @@ Como futuros administradores, debemos entender que la "nube" tiene un soporte f�
 
     Extracción de tierras raras: La fabricación de semiconductores requiere materiales como el coltán o el litio, cuya extracción tiene un alto coste ecológico y social.
 
-    <img src="https://www.google.com/imgres?q=impacto%20ambiental%20digitalizacion&imgurl=https%3A%2F%2Fcied.urjc.es%2Fmedia%2Fk2%2Fitems%2Fcache%2F6510c214cccfaeb0da17896ee0ad9aa8_XL.jpg%3Ft%3D20230607_080347&imgrefurl=https%3A%2F%2Fcied.urjc.es%2Fblog%2Fitem%2F1275-digitalizacion-y-sostenibilidad-el-impacto-de-las-tic-en-el-medio-ambiente&docid=TFOKfcfMWlBasM&tbnid=YlKsALAgxFi7KM&vet=12ahUKEwiq9MCXmeOTAxXzcKQEHd6qDAsQnPAOegQIHhAB..i&w=1170&h=640&hcb=2&ved=2ahUKEwiq9MCXmeOTAxXzcKQEHd6qDAsQnPAOegQIHhAB" width="400" />
+    <img src=""400" />
 
 2. Gestión de Residuos Informáticos (RAEE)
 
