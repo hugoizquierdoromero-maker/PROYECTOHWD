@@ -83,11 +83,15 @@ Dato para el Administrador: Activar los estados de ahorro de energía en la BIOS
 ![Imagen de Sostenibilidad](./markdown.jpg)
 
 
-📚 Referencias y Normativa
+## 📚 Referencias y Fuentes de Información
 
-    Directiva 2012/19/UE: Sobre residuos de aparatos eléctricos y electrónicos.
+Para el desarrollo de este proyecto se han consultado las siguientes fuentes técnicas y oficiales:
 
-    Estándar IEEE 1680: Para la evaluación ambiental de productos electrónicos.
+*   [Directiva 2012/19/UE (RAEE)](https://www.boe.es/buscar/doc.php?id=DOUE-L-2012-81423): Normativa europea oficial sobre el tratamiento de residuos de aparatos eléctricos y electrónicos.
+*   [Informe Global E-waste Monitor](https://www.itu.int/en/ITU-D/Environment/Pages/Spotlight/Global-E-waste-Monitor-2024.aspx): Datos estadísticos actualizados sobre la generación de basura electrónica a nivel mundial.
+*   [Guía de Green IT (U.S. Department of Energy)](https://www.energy.gov/eere/femp/energy-efficient-data-centers): Mejores prácticas para la eficiencia energética en Centros de Procesamiento de Datos (CPD).
+*   [Fundación Feniss](https://feniss.org/): Organización especializada en la lucha contra la obsolescencia programada y la promoción del sello ISSOP.
+*   [Greenpeace - Guía de Electrónica Verde](https://www.greenpeace.org/international/act/greener-electronics/): Ranking de fabricantes según su compromiso con el medio ambiente y el uso de materiales no tóxicos.
 
 👥 Autores
 
